@@ -8,6 +8,8 @@ Josh. Senior engineer in Vancouver. I build with coding agents every day.
 npx theodolite init
 ```
 
+**[mcp-scoped-server](https://github.com/joshuafitzmorris/mcp-scoped-server)** is a deny-by-default MCP server: every tool declares its scopes, results are narrowed to the caller's tenant, and CI fails any tool whose answer depends on another tenant's data. [The write-up](https://joshuafitzmorris.github.io/writing/deny-by-default-mcp/).
+
 ## Also
 
 - [terminal-setup](https://github.com/joshuafitzmorris/terminal-setup): a pale, cool-toned Ghostty, starship and zsh setup for macOS.
